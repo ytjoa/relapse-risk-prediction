@@ -12,7 +12,9 @@ pip install -r requirements.txt
 ```
 
 ***
+####
 ### Interactive Web App ( In Progress..)
-<img width="556" alt="image" src="https://github.com/user-attachments/assets/a5e80184-2f4e-4aea-a163-8dca3816cb55" />
+<img width="1498" alt="image" src="https://github.com/user-attachments/assets/05976471-0795-4ed3-ba7e-9e44a3eeaa88" />
+
 
 
